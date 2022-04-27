@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
     ImageView mweathericone;
     RelativeLayout mCityfinder;
 
+
     LocationManager mLocationManager;
     LocationListener mLocationListener;
 
